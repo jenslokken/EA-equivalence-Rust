@@ -1,0 +1,8 @@
+/target
+*.py
+*.pdf
+*.tt
+*.exe
+src/assets/test.txt
+
+.vscode/
